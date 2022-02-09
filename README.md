@@ -10,5 +10,11 @@
 7、获取消息记录    url： 127.0.0.1:8090/wechat?id=6   method：GET response： 消息内容  
 8、删除好友        url： 127.0.0.1:8090/wechat?id=7&wxid=xxx   method：GET response： 删除结果  
 欢迎加群讨论：467074954  
-点击链接加入群聊【wchook交流】：https://jq.qq.com/?_wv=1027&k=Hl3aZ0dc
+点击链接加入群聊【wchook交流】：https://jq.qq.com/?_wv=1027&k=Hl3aZ0dc  
+
+另外推荐一个非常好的微信hook开源项目https://github.com/TonyChen56/WeChatRobot，鬼手大佬非常牛！！！！！！
+
+声明  
+本项目仅供技术研究，请勿用于任何商业用途，请勿用于非法用途，如有任何人凭此做何非法事情，均于作者无关，特此声明。  
+
 
